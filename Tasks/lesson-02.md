@@ -24,7 +24,7 @@ Submit the PR by the deadline; it does not need to be merged yet. Check replies 
 Add your own row below. Use your real name; write your account username, not its display name. Class is optional.
 
 | Name | GitHub username | Class (optional) |
-| --- | --- | --- |
+|张家铭|LittleTiger-zjm|高一二班|
 
 ## Task 2 Move your project and collaborate
 
